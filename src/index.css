@@ -835,7 +835,7 @@ justify-content: space-between;
     font-size: 35px;
     font-weight: 700;
     max-width: 485px;
-    color: var(--color-text-1);
+    color: #fff;
 }
 .customization .container .info p{
   max-width: 600px;
@@ -866,7 +866,7 @@ justify-content: space-between;
 }
 .customization .container .info .box h2{
   font-size: 17px;
-  color: var(--color-text-1);
+  color: #fff;
 }
 .customization .container .info .box p{
   display: flex;
